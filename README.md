@@ -13,8 +13,8 @@ User plays against the AI, which is an implementation of the MiniMax algorithm w
 3. Change directory to the project > src directory.
 4. Run the following commands:
    ```sh
-   >javac Main.java
-	 >java Main
+   >>javac Main.java
+   >>java Main
    ```
 5. The main screen will pop up, please select difficulty and turn and then click play to start the game.
 6. You're all set!
