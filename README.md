@@ -19,7 +19,7 @@ User plays against the AI, which is an implementation of the MiniMax algorithm w
 5. The main screen will pop up, please select difficulty and turn and then click play to start the game.
 6. You're all set!
 
-## Colaborators 
+## Collaborators 
 * [KonstantinaAn](https://github.com/KonstantinaAn)
 * [DebsTheLemon](https://github.com/DebsTheLemon)
 * [solaunar](https://github.com/solaunar)
