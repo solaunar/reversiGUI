@@ -1,6 +1,7 @@
 # reversiGUI
-Java project for the Artificial Intelligence course at AUEB. Implemented the game of Othello/ Reversi with graphics.
-User plays against the AI, which is an implementation of the MiniMax algorithm with pruning.
+Java project for the Artificial Intelligence course at AUEB. Implemented the game of Othello/ Reversi with graphics. <br>
+User plays against the AI, which is an implementation of the MiniMax algorithm with pruning. <br>
+The report of the project (in Greek) can be found [here](https://github.com/solaunar/reversiGUI/blob/master/Reversi_Report.pdf).
 
 ### Built With
 * [Java 1.14](https://docs.oracle.com/en/java/javase/14/docs/api/index.html)
